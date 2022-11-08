@@ -19,8 +19,7 @@ Ce travail représente ma solution du défi [QR code component challenge on Fron
 ![](/assets/design/evrajodygildas.devAngel-qr-code.png)
 ### Links
 
-- Solution URL: [Voir le resultat](https://your-solution-url.com)
--
+- Solution URL: [Voir le resultat](qr-code-component-3o6yg4x6l-evrajody.vercel.app)
 
 ### Built with
 
